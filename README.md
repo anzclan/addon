@@ -8,5 +8,4 @@ https://www.dotycat.com
   <span>See the Pen <a href="https://codepen.io/anzclan/pen/qBxvZJR">
   Download Page</a> by aNz (<a href="https://codepen.io/anzclan">@anzclan</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+</p> 
