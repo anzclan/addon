@@ -1,6 +1,12 @@
 # SIMPLE DOWNLOAD PAGE 
 ## OPENVPN CONFIG DOWNLOADER PAGE BY @anzclan
 
+<pre><code>
+wget -qO scvpn_webpage.zip "https://raw.githubusercontent.com/anzclan/addon/main/scvpn_webpage.zip"
+tar xzf scvpn_webpage.zip -C /home/vps/public_html
+rm -f scvpn_webpage.zip
+</code></pre>
+
 ### WEBSITE
 https://www.dotycat.com
 
