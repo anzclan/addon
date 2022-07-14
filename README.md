@@ -4,7 +4,7 @@
 <pre><code>
 wget -qO scvpn_web.tar.gz "https://raw.githubusercontent.com/anzclan/addon/main/scvpn_web.tar.gz"
 tar xzf scvpn_web.tar.gz -C /home/vps/public_html
-rm -f web.tar.gz
+rm -f scvpn_web.tar.gz
 </code></pre>
 
 ### WEBSITE
